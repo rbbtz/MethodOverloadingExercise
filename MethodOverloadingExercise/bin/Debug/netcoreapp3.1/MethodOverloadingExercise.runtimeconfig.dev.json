@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Cerebro/.dotnet/store/|arch|/|tfm|",
+      "/Users/Cerebro/.nuget/packages"
+    ]
+  }
+}

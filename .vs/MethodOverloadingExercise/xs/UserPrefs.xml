@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{05D237F5-31B2-4C7D-B3F3-BAED211576AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodOverloadingExercise/Program.cs">
+    <Files>
+      <File FileName="MethodOverloadingExercise/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MethodOverloadingExercise" expanded="True">
+            <Node name="MethodOverloadingExercise" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MethodOverloadingExercise FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
